@@ -31,6 +31,6 @@
   <a href="https://github.com/Crystyanno/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40"/></a>
 </div>
 </br>
-
+<!--
 ![Snake animation](https://github.com/Crystyanno/Crystyanno/blod/output/github-contribution-grid-snake.svg)
-
+-->
