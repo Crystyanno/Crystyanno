@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=crystyanno&label=Profile%20views&color=0e75b6&style=flat" alt="crystyanno"/></p>
 
-- 🔭 Atualmente eu trabalho com app de mobilidade urbana "Uber" [https://github.com/Crystyanno/Barbearia-Alura](https://github.com/Crystyanno/Barbearia-Alura)
+- 🔭 Atualmente eu trabalho com app de mobilidade urbana "Uber" 
 
-- 🌱 Atualmente eu estou aprendendo **html5 & Css3, JavaScript**
+- 🌱 Atualmente eu estou aprendendo **html5 & Css3, JavaScript** [https://github.com/Crystyanno/Barbearia-Alura](https://github.com/Crystyanno/Barbearia-Alura)
 
 - 📫 Você me acha **crystyanno.alves@gmail.com**
 
