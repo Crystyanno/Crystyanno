@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente eu trabalho com app de mobilidade urbana "Uber" 
 
-- 🌱 Atualmente eu estou aprendendo **html5, Css3 e JavaScript** [https://github.com/Crystyanno/Barbearia-Alura](https://github.com/Crystyanno/Barbearia-Alura)
+- 🌱 Atualmente eu estou aprendendo **html5, Css3 e JavaScript**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/crystyanno-souza/details/experience/](https://www.linkedin.com/in/crystyanno-souza/details/experience/) <p align="left">
   
