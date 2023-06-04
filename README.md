@@ -16,9 +16,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/crystyanno">
+  <a href="https://github.com/Crystyanno">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystyanno&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
