@@ -1,34 +1,47 @@
-<h1 align="center">Oi 👋, sou o Crystyanno Souza</h1>
-<h3 align="center">Sou apaixonado por tecnologia</h3>
-
-- 🔭 Atualmente eu trabalho com app de mobilidade urbana "Uber" 
-
-- 🌱 Atualmente eu estou aprendendo **html5, Css3 e JavaScript**
-
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/crystyanno-souza/details/experience/](https://www.linkedin.com/in/crystyanno-souza/details/experience/) <p align="left">
-  
-<h3 align="center">Idiomas e ferramentas:</h3>
-<div align="center" style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
-</div>
-  
 <div>
-    <a href="https://github.com/crystyanno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crystyanno&show_icons=true&theme=tokyonight&inclube_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystyanno&layout=compact&langs_count=16&theme=tokyonight"/>
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/crystyanno-souza/">Crystyanno Souza 😃️</a>
+  </h1>
+  
+  <p align="center">
+    Estudante de Desenvolvimento Front End. 
+  </p>
+  
+  <p align="center">
+    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+  </p>
+  
 </div>
-    
-<h3 align="center">Redes Sociais:</h3>    
-<div align="center" style="display: inline_block">
-	<a href="https://www.facebook.com/crystyanno" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="40"/></a> 
-	<a href="https://twitter.com/Crystyanno08" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="40"/></a> 
-	<a href="https://www.linkedin.com/in/crystyanno-souza/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/></a>
-  <a href="https://github.com/Crystyanno/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40"/></a>
+
+<div align="center">
+  <a href="https://github.com/crystyanno">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
 </div>
-</br>
-<!--
-![Snake animation](https://github.com/Crystyanno/Crystyanno/blod/output/github-contribution-grid-snake.svg)
--->
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div><br>
+
+<div align="center">
+    <a href="https://www.instagram.com/crystyanno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/crystyanno-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:crystyanno.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
