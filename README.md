@@ -38,6 +38,7 @@
 <div align="center">
 
 <!--[Snake animation](https://github.com/Crystyanno/Crystyanno/blob/output/github-contribution-grid-snake.svg)-->
+<img src="https://raw.githubusercontent.com/rystyanno/rystyanno/output/snake.svg" alt="Snake animation" />
   
 </div>
 <br><br>
