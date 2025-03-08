@@ -35,12 +35,6 @@
   <a href="mailto:crystyanno.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-<!--[Snake animation](https://github.com/Crystyanno/Crystyanno/blob/output/github-contribution-grid-snake.svg)-->
-<img src="https://raw.githubusercontent.com/rystyanno/rystyanno/output/snake.svg" alt="Snake animation" />
-  
-</div>
 <br><br>
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
